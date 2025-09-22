@@ -7,4 +7,5 @@ As part of my role within the Threat Intelligence unit at PrimeSoft Solutions, I
 ### VirusTotal
 ### MITRE ATT&CK Framework
 
-Attached is a report 
+Attached is a report [PrimeSoft Solutions](https://github.com/DorcasAfolabi/Threat-Intelligence-with-MITRE-ATT-CK-Mapping---A-PrimeSoft-Case-study)
+
